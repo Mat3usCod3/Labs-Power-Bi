@@ -7,3 +7,8 @@
 + [Vendas Gerais](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Vendas_Gerais/visualiza%C3%A7%C3%A3o.pdf)
 
 + [Análise de campanhas de Marketing]()
+
+    + [Visão do cliente]()
+    + [Comportamento de compra do cliente]()
+    + [Performance das campanhas de Marketing]()
+    + [Padrões de compra por ponto de venda]()
