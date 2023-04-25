@@ -13,3 +13,6 @@
     + [Visão 2 - Comportamento de Compra do Cliente](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-2-Comportamento-de-Compra-do-Cliente.pdf)
     + [Visão 3 - Performance das Campanhas de Marketing](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-3-Performance-das-Campanhas-de-Marketing.pdf)
     + [Visão 4 - Padrões de Compra por Ponto de Venda](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-4-Padrões-de-Compra-por-Ponto-de-Venda.pdf)
+
+
+# 
