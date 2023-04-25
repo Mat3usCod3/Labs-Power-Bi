@@ -6,9 +6,10 @@
 
 + [Vendas Gerais](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Vendas_Gerais/visualiza%C3%A7%C3%A3o.pdf)
 
+
 + [Análise de campanhas de Marketing](https://github.com/Mat3usCod3/Labs-Power-Bi/tree/main/Marketing)
 
-    + [Visão Cliente](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/analise-campanhas-de-marketing-1.pdf)
-    + [Comportamento de Compra do Cliente](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/analise-campanhas-de-marketing-2.pdf)
-    + [Performance das Campanhas de Marketing](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/analise-campanhas-de-marketing-3.pdf)
-    + [Padrões de Compra por ponto de Venda](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/analise-campanhas-de-marketing-4.pdf)
+    + [Visão 1 - Cliente](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-1-Cliente.pdf)
+    + [Visão 2 - Comportamento de Compra do Cliente](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-2-Comportamento-de-Compra-do-Cliente.pdf)
+    + [Visão 3 - Performance das Campanhas de Marketing](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-3-Performance-das-Campanhas-de-Marketing.pdf)
+    + [Visão 4 - Padrões de Compra por Ponto de Venda](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Marketing/Visão-4-Padrões-de-Compra-por-Ponto-de-Venda.pdf)
