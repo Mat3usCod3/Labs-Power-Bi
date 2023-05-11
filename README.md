@@ -31,3 +31,7 @@
     + [Principais Segmentos](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/segmentos.pdf)
     + [Venda por Categoria e Pontos de Venda](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/vendas_por_categoria_ponto_venda.pdf)
     + [Total de Vendas por Estado e Vendedor](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/total_vendas_estado_vendedor.pdf)
+
+<br>
+
++ [Análise Logistíca](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Logistica/analise_de_dados_logistica.pdf)
