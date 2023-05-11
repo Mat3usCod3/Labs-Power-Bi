@@ -1,5 +1,7 @@
 # 📒 Microsoft Power Bi | Laboratórios | Estudos de caso
 
+<br>
+
 + [Venda de Veículos](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Venda_de_veiculos/PDF-Visualisa%C3%A7%C3%A3o-Estudo%20de%20caso%2001-Dados%20venda%20carro.pdf)
 
 <br>
@@ -35,3 +37,7 @@
 <br>
 
 + [Análise de Dados de Logistíca](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Logistica/analise_de_dados_logistica.pdf)
+
+<br>
+
++ [Análise de Dados Financeiros](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Financeiros/Financeiro_power_bi.pdf)
