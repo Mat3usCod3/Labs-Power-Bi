@@ -18,9 +18,9 @@
 
 + [Análise de Dados de RH com Power BI](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Analise_RH/indicadores_analise_rh.pdf)
 
-+ [Análise de vendas Comerciais]()
++ [Análise de Vendas Comerciais](https://github.com/Mat3usCod3/Labs-Power-Bi/tree/main/Comercial)
 
-    + [Total de Vendas]()
-    + [Principais Segmentos]()
-    + [Venda por Categoria e Pontos de Venda]()
-    + [Total de Vendas por Estado e Vendedor]()
+    + [Total de Vendas](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/total_vendas.pdf)
+    + [Principais Segmentos](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/segmentos.pdf)
+    + [Venda por Categoria e Pontos de Venda](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/vendas_por_categoria_ponto_venda.pdf)
+    + [Total de Vendas por Estado e Vendedor](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Comercial/total_vendas_estado_vendedor.pdf)
