@@ -17,3 +17,10 @@
 <br>
 
 + [Análise de Dados de RH com Power BI](https://github.com/Mat3usCod3/Labs-Power-Bi/blob/main/Analise_RH/indicadores_analise_rh.pdf)
+
++ [Análise de vendas Comerciais]()
+
+    + [Total de Vendas]()
+    + [Principais Segmentos]()
+    + [Venda por Categoria e Pontos de Venda]()
+    + [Total de Vendas por Estado e Vendedor]()
